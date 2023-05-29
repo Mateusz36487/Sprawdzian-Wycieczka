@@ -1,0 +1,29 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+#banner {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+
+#glowna{
+    background-color: seashell;
+    height: 500px;
+    overflow: scroll;
+}
+footer{
+     background-color: tomato;
+     color: white;
+     width: 25%;
+     height: 160px;
+}
+
+.gen {
+    background-color: white;
+    color: dimgray;
+    width: 60%;
+    height: 220px;
+    margin: 40px,auto,40px,auto;
+    box-shadow: 5px,dimgray;
+}
